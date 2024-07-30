@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mods3012.CW.CustomSaveVideosLocationMod", "Mods3012.CW.CustomSaveVideosLocationMod\Mods3012.CW.CustomSaveVideosLocationMod.csproj", "{6850F4F0-92E4-47AF-BDBB-EA8ECCB95842}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6850F4F0-92E4-47AF-BDBB-EA8ECCB95842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6850F4F0-92E4-47AF-BDBB-EA8ECCB95842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6850F4F0-92E4-47AF-BDBB-EA8ECCB95842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6850F4F0-92E4-47AF-BDBB-EA8ECCB95842}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0673D238-B0E4-459F-AFC3-B219596C61F8}
+	EndGlobalSection
+EndGlobal
